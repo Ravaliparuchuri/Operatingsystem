@@ -23,3 +23,9 @@ An operating system (OS) is the program that, after being initially loaded into 
 
 ### ss page:
 ![image](https://user-images.githubusercontent.com/112694780/199936739-8d195eaf-6a8b-4e01-a7cd-e3f4ed7c10e5.png)
+
+### Gallery Page:
+![image](https://user-images.githubusercontent.com/112694780/199936969-a7b5fdea-6aec-47f0-8a9f-c012e3d2b8ff.png)
+
+### Gallery Page:
+![image](https://user-images.githubusercontent.com/112694780/199937132-54ec50b4-e153-4851-8681-cb319895f978.png)
