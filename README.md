@@ -42,3 +42,7 @@ An operating system (OS) is the program that, after being initially loaded into 
 ##Final Page:
 ![image](https://user-images.githubusercontent.com/112694780/199938102-f5c10c36-b21e-4c5b-9e7b-b0bf2136abe9.png)
 
+## Languages and Azure services used in my bot:-
+- HTML
+- QnA Maker
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
