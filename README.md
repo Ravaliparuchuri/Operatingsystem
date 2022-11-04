@@ -45,4 +45,4 @@ An operating system (OS) is the program that, after being initially loaded into 
 ## Languages and Azure services used in my bot:-
 - HTML
 - QnA Maker
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/).
